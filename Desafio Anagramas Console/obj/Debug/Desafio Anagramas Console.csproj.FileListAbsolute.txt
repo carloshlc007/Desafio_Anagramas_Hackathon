@@ -1,0 +1,7 @@
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\bin\Debug\Desafio Anagramas Console.exe.config
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\bin\Debug\Desafio Anagramas Console.exe
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\bin\Debug\Desafio Anagramas Console.pdb
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\obj\Debug\Desafio Anagramas Console.csprojAssemblyReference.cache
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\obj\Debug\Desafio Anagramas Console.csproj.CoreCompileInputs.cache
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\obj\Debug\Desafio Anagramas Console.exe
+D:\Vs Space\Desafio Anagramas Console\Desafio Anagramas Console\obj\Debug\Desafio Anagramas Console.pdb
